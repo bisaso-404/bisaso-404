@@ -1,7 +1,7 @@
  ### 💫 About Me
  ---
 - 👋 Hi, I’m @bisaso-ronald
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Software Programming, DevOps, Data Engineering
 - 🌱 Learning AI, Building educational platforms, and strengthening my Data Engineering Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: bronnie313@gmail.com 
