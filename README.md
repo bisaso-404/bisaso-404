@@ -5,7 +5,7 @@
 - 🌱 Learning AI, Building educational platforms, and strengthening my Data Engineering Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: bronnie313@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: But it works on my machine ..😄
 
  ### 🛠 Tech Stack
