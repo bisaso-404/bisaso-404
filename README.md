@@ -1,5 +1,5 @@
- ### 💫 About Me
- ---
+### 💫 About Me
+---
 - 👋 Hi, I’m @bisaso-ronald
 - 👀 I’m interested in React • Node.js • Express • Python • Django • FastAPI • Flask • Appwrite • PostgreSQL • Docker • Azure • AI for education • DevOps • System design
 - 🌱 Learning AI, Building educational platforms, and strengthening my Data Engineering Skills, Backend System Engineer
@@ -10,11 +10,10 @@
 
 ### Note on Contribution History
 ---
-Due to an account suspension (@bronnie313, which I have been using since 2018) issue during March 2025, 
-I've been using this account (@bisaso-404) for my developmentDue to a suspension of my previous account (@bronnie313), which I had been using since 2018, in March 2025, I have continued my development work using this account (@bisaso-404).
+Following the suspension of my long-standing account (@bronnie313) in March 2025, I have been carrying out my development activities through this account (@bisaso-404)
 
- ### 🛠 Tech Stack
-  ---
+### 🛠 Tech Stack
+---
 - Ruby on Rails
 - Python
 - JavaScript / React / Redux
