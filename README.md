@@ -9,7 +9,8 @@
 - ⚡ Fun fact: But it works on my machine ..😄
 
 ### Note on Contribution History
-Due to an account(@bronnie313, which I have been using since 2018) suspension issue during March 2025, 
+---
+Due to an account suspension (@bronnie313, which I have been using since 2018) issue during March 2025, 
 I've been using this account (@bisaso-404) for my development.
 
  ### 🛠 Tech Stack
