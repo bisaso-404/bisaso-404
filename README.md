@@ -10,7 +10,7 @@
 
 ### Note on Contribution History
 ---
-Following the suspension of my long-standing account (@bronnie313) in March 2025, I have been carrying out my development activities through this account (@bisaso-404)
+Following the suspension of my long-standing account (@bronnie313) in March 2025, which I've been using since 2018, I have been carrying out my development activities through this account (@bisaso-404)
 
 ### 🛠 Tech Stack
 ---
