@@ -1,3 +1,7 @@
+### Note on Contribution History
+---
+Following the suspension of my long-standing account (@bronnie313) in March 2025, which I've been using since 2018, I have been carrying out my development activities through this account (@bisaso-404)
+
 ### 💫 About Me
 ---
 - 👋 Hi, I’m @bisaso-ronald
@@ -7,10 +11,6 @@
 - 📫 Reach me: bronnie313@gmail.com / bisasoronald313@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: But it works on my machine ..😄
-
-### Note on Contribution History
----
-Following the suspension of my long-standing account (@bronnie313) in March 2025, which I've been using since 2018, I have been carrying out my development activities through this account (@bisaso-404)
 
 ### 🛠 Tech Stack
 ---
