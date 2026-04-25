@@ -21,6 +21,7 @@ Following the suspension of my long-standing account (@bronnie313) in March 2025
 - PostgreSQL / MySQL
 - Appwrite
 - Git & GitHub
+- AI Integration
 
 
 
