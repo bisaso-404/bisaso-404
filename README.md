@@ -5,7 +5,7 @@ Following the suspension of my long-standing account (@bronnie313) in March 2025
 ### 💫 About Me
 ---
 - 👋 Hi, I’m @bisaso-ronald
-- 👀 I’m interested in React • Node.js • Express • Python • Django • FastAPI • Flask • Appwrite • PostgreSQL • Docker • Azure • AI for education • DevOps • System design
+- 👀 I’m interested in React • Node.js • Express • Python • Django • FastAPI • Flask • Appwrite • PostgreSQL • Docker • Azure • AI/LLM integration • DevOps • System design
 - 🌱 Learning AI, Building educational platforms, and strengthening my Data Engineering Skills, Backend System Engineer
 - 💞️ I’m looking to collaborate on enterprise systems, LMS, AI systems, and Core Banking Systems
 - 📫 Reach me: bronnie313@gmail.com / bisasoronald313@gmail.com
