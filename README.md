@@ -20,6 +20,7 @@ Following the suspension of my long-standing account (@bronnie313) in March 2025
 - HTML / CSS
 - PostgreSQL / MySQL
 - Appwrite
+- Firebase / Supabase
 - Git & GitHub
 - AI Integration
 ---
