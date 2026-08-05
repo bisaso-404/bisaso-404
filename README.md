@@ -1,6 +1,6 @@
 ### Note on Contribution History
 ---
-Following the suspension of my long-standing account (@bronnie313) in March 2025, which I've been using since 2018, I have been carrying out my development activities through this account (@bisaso-404)
+My previous GitHub account, @bronnie313 (2018–2025), is no longer available. All current projects and development activity are maintained on this account (@bisaso-404).
 
 ### 💫 About Me
 ---
